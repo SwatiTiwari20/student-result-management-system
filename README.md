@@ -1,12 +1,16 @@
 # Student-Result-Management-System
 
 Using Fullstck-DevOps:
+
 Front end:
 · HTML
 · CSS
 · JavaScript
+
 Back end:
 • MongoDB
+
+Required to work more on my Project I hope you like it.
 
 Software Requirement Specification report:-  for Student Result
 Management System.
