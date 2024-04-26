@@ -63,24 +63,31 @@ optimize performance.
 ensure data availability.
 •Users can generate summary reports regarding student performance, subject-wise analysis, semester-wise
 comparison, and more.
+
 USER CLASSES AND CHARACTERISTICS:
 User Classes:
 •Administrators: Manage system configurations, user roles, and access permissions.
 •Teachers: Input student results, generate reports, and monitor student performance.
 •Students: View their own results and academic progress.
 •Registrar: Oversee the overall result management process and system functionality.
+
 Characteristics:
 •Administrators: Have full access to system functionalities.
 •Teachers: Access limited to result input and reporting features.
 •Students: Can only view their own results and academic information.
 •Registrar: Manages overall system operations and user access.
+
 General Constraints-
 •Adherence to privacy and data protection regulations.
 •Compatibility with modern web browsers and devices.
 •Scalability to accommodate increasing data and user load.
 •Users must have their correct usernames and passwords to enter into their online accounts
 and do actions.
-FUNCTIONAL REQUIREMENTSFunctional requirements are the following:
+
+
+FUNCTIONAL REQUIREMENTS
+
+Functional requirements are the following:
 •User authentication: Implement a secure login system where college administrators, faculty,
 and staff can access the SRMS using unique credentials.
 •Result management: Enable faculty members to input and update student result data for
@@ -94,6 +101,7 @@ course-wise analysis, and progress over multiple semesters.
 stored within the SRMS. Access controls should be in place to restrict access to certain
 functionalities or data based on user roles and permissions, ensuring data confidentiality and
 integrity.
+
 •User interface: Design an intuitive and user-friendly interface that allows college staff to
 navigate the SRMS easily.
 •Compatibility: Ensure that the SRMS is compatible with various web browsers and devices
@@ -104,6 +112,7 @@ systems (SIS), learning management systems (LMS), and administrative databases.
 •Scalability: Design the SRMS to handle increased data and user load as the college grows.
 •Maintenance: Provide regular updates, backups, and technical support to ensure the
 smooth operation of the SRMS.
+
 SOFTWARE REQUIREMENTS:
 Front end:
 · HTML
@@ -111,13 +120,18 @@ Front end:
 · JavaScript
 Back end:
 • MongoDB
+
+
 HARDWARE REQUIREMENTS:
 · IDE preferably Visual Studio Code
 · 4GB ram
 · 1.2 GHz processor
 · Intel i5
 · Windows 7/8/8.1/10
+
+
 NON- FUNCTIONAL REQUIREMENTS:
+
 Non-functional requirements (NFRs) are crucial aspects of a software system that describe how it
 should perform, rather than what it should do. They define the overall attributes such as
 performance, security, usability, and maintainability. Below is a detailed list of non-functional
