@@ -112,7 +112,7 @@ NON- FUNCTIONAL REQUIREMENTS:
 Non-functional requirements (NFRs) are crucial aspects of a software system that describe how it
 should perform, rather than what it should do. They define the overall attributes such as
 performance, security, usability, and maintainability. Below is a detailed list of non-functional
-requirements for the Software Requirements Specification (SRS) document of a Library
+requirements for the Software Requirements Specification (SRS) document of a Student Result
 Management System website:
 1. Performance Requirements:
 - Response Time:
